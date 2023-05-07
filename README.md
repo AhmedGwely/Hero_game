@@ -7,6 +7,12 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 
+//import java.util.Random;
+//import java.util.Scanner;
+//import java.util.ArrayList;
+
+
+
 public class final_version_Naca_game
 {
     ///static int k = 0;
